@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+## Sergio Beltran
 
-You can use the [editor on GitHub](https://github.com/Sbeltran16/sergios-portfolio.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Striving to become better and fitting into your company.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### About me
+I am a Software Developer from Las Vegas, NV that tackles battles head on and tries to solve on step at a time. 
+I work with many languages such as Javascript, Python and Ruby. My biggest strengths are problem solving and critical thinking.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Projects
+- Chirper // "https://chirper2.herokuapp.com/Chirper/home"
+  -Built with JavaScript, CSS, HTML, NodeJS, Express, MongoDB, and Mongoose
+  -It is a microblogging page meant to let a user upload posts, edit and delete whenever they like.
 
-```markdown
-Syntax highlighted code block
+- Strange House // "https://github.com/Sbeltran16/gameProject1"
+  - Built with JavasScript, CSS, and HTML
+  - A Text based game made for a user to choose different options and choosing how the game ends.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Sbeltran16/sergios-portfolio.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+# Contact Me
+https://www.linkedin.com/in/sergiobeltran16/ - Linkedin
+sbeltran16@gmail.com - Email
+https://github.com/Sbeltran16 - Github
